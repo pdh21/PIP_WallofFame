@@ -1,1 +1,4 @@
 # Simple shell script to see who has succesfully collaborated using Git and Github
+echo "And the successful collaborators are:"
+echo "-------------------------------------"
+echo "Peter Hurley"
